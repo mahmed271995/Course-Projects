@@ -1,4 +1,6 @@
-int delays[8] = {3000, 3000, 2500, 2500, 2500, 2500, 2500, 2500}; //MOTOR 1 
+int delays[8] = {3000, 3000, 2500, 2500, 2500, 2500, 2500, 2500}; 
+
+//MOTOR 1 
 #define m1Pin1 11 
 #define m1Pin2 12 
 #define m1PWMPin 13 
