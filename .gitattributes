@@ -1,2 +1,3 @@
 *.mlx linguist-language=MATLAB
+*.ino linguist-language=C++
 #*.slx linguist-language=MATLAB
